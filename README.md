@@ -14,7 +14,7 @@ I am Jason, an Algorithm(NLP) Engineer, my research field at master level is AI 
        - Programming: Python, C/C++, PHP, SQL, Shell, Javascript
        - Framework: Pytorch, Paddle
 ☕️ Coffee Geek: Espresso, Pour-over, JP Dark Roasted
-📫 Reach Me: jasondurianvan@gmail.com&emsp;[![Instagram - @jasonvanf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/jasonvanf)
+📫 Reach Me: jasondurianvan@gmail.com [![Instagram - @jasonvanf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jasonvanf)
 ```
 
 <br><br> 
