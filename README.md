@@ -4,13 +4,14 @@
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am Jason, an Algorithm(NLP) Engineer, my research field at master level is AI & ML. <br>
 
-<b>🧑‍💼 **DEVELOPMENT STACK**</b><br>
- I'm a Software Engineer based in Nairobi, Kenya.<br>
-⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Springboot,Photoshop, Illustrator<br>
-🌱 Learning all about Web3 and Celo Blockchain.<br>
-🤔 I’m looking for help with Building SmartContracts on blockchains like Celo.<br>
-💬 Ping me about Development,Graphic Design, Branding.<br>
-📫 How to reach me:dirambora12@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/diram_b), [LinkedIn](https://www.linkedin.com/in/diram-b-guyo-8bb9b1174/)
+
+<br><br>🧑‍💼 **DEVELOPMENT STACK**<br>
+       I'm a Software Engineer based in Nairobi, Kenya.<br>
+      ⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Springboot,Photoshop, Illustrator<br>
+      🌱 Learning all about Web3 and Celo Blockchain.<br>
+      🤔 I’m looking for help with Building SmartContracts on blockchains like Celo.<br>
+      💬 Ping me about Development,Graphic Design, Branding.<br>
+      📫 How to reach me:dirambora12@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/diram_b), [LinkedIn](https://www.linkedin.com/in/diram-b-guyo-8bb9b1174/)
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
