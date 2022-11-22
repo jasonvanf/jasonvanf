@@ -14,13 +14,11 @@ I am Jason, an Algorithm(NLP) Engineer, my research field at master level is AI 
        - Programming: Python, C/C++, PHP, SQL, Shell, Javascript
        - Framework: Pytorch, Paddle
 ☕️ Coffee Geek: Espresso, Pour-over, JP Dark Roasted
-📫 Reach Me: jasondurianvan@gmail.com [![Instagram - @jasonvanf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jasonvanf)
 ```
+📫 Reach Me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasondurianvan@gmail.com) &emsp;[![Instagram - @jasonvanf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jasonvanf)
 
 <br><br> 
 
 ![](https://github-readme-stats.vercel.app/api?username=jasonvanf&theme=light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasonvanf&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonvanf&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=php)
-
-<br>
