@@ -6,10 +6,10 @@ I am Jason, an Algorithm(NLP) Engineer, my research field at master level is AI 
 
 <br><br>
 
-🧑‍💼 **DEVELOPMENT STACK**
+🧑‍💼
 
 ```
-⚙️ Skills
+⚙️ Development Stack
        - AI: Natural Language Processing, Machine Learning, 
        - Programming: Python, C/C++, PHP, SQL, Shell, Javascript
        - Framework: Pytorch, Paddle
