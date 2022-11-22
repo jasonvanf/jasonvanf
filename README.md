@@ -5,13 +5,17 @@
 I am Jason, an Algorithm(NLP) Engineer, my research field at master level is AI & ML. <br>
 
 
-<br><br>🧑‍💼 **DEVELOPMENT STACK**<br>
+<br><br>
+🧑‍💼 **DEVELOPMENT STACK**
+<br>
+<code>
        I'm a Software Engineer based in Nairobi, Kenya.<br>
       ⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Springboot,Photoshop, Illustrator<br>
       🌱 Learning all about Web3 and Celo Blockchain.<br>
       🤔 I’m looking for help with Building SmartContracts on blockchains like Celo.<br>
       💬 Ping me about Development,Graphic Design, Branding.<br>
       📫 How to reach me:dirambora12@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/diram_b), [LinkedIn](https://www.linkedin.com/in/diram-b-guyo-8bb9b1174/)
+</code>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
