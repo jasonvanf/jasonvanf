@@ -2,7 +2,7 @@
 --| --| --| --| --|
 
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-I am Jason, an Algorithm(NLP) Engineer, my research area at graduate level is AI & ML.
+I am Jason, an Algorithm(NLP) Engineer, my research area at MS. level is AI & ML.
 
 <br><br>
 
