@@ -2,7 +2,7 @@
 --| --| --| --| --|
 
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-I am Jason, an Algorithm(NLP) Engineer, my research area at graduate level is AI & ML.
+I am Jason, an Algorithm Architect with 6 years of experience, specializing in Generative AI and NLP, my research area at graduate level is AI & ML.
 
 <br><br>
 
@@ -10,9 +10,9 @@ I am Jason, an Algorithm(NLP) Engineer, my research area at graduate level is AI
 
 ```
 ⚙️ Development Stack
-       - AI: Natural Language Processing, Machine Learning, 
-       - Programming: Python, C/C++, PHP, SQL, Shell, Javascript
-       - Framework: Pytorch, Paddle
+       - AI: Generative AI, Natural Language Processing, Machine Learning
+       - Programming: Python, C/C++, PHP, SQL, NoSQL, Shell, Javascript
+       - Framework: PyTorch, Transformers, LangChain, DeepSpeed, PEFT, vLLM, FlashAttention, FastAPI
 ☕️ Coffee Geek: Espresso, Pour-over, JP Dark Roasted
 ```
 
